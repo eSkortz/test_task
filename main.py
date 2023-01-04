@@ -5,7 +5,7 @@ import json
 import sqlite3
 import random
 
-bot = telebot.TeleBot('5848497570:AAGTkKgKwZ52mNkoakXDoXfMluxLXVWTakQ')
+bot = telebot.TeleBot('')
 
 
 def resource_request():
